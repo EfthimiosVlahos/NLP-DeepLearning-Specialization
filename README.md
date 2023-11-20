@@ -3,10 +3,10 @@ This repository contains the projects I completed during the NLP Specialization 
 
 ## Table of Contents
 
-1. [Sentiment Analysis and Word Translation](#sentiment-analysis-and-word-translation)
-2. [Autocorrect and Autocomplete](#autocorrect-and-autocomplete)
-3. [Advanced Text Processing](#advanced-text-processing)
-4. [Machine Translation and Chatbots](#machine-translation-and-chatbots)
+1. [NLP with Classification and Vector Spaces](#sentiment-analysis-and-word-translation)
+2. [NLP with Probabilistic Models](#autocorrect-and-autocomplete)
+3. [NLP with Sequence Models ](#advanced-text-processing)
+4. [NLP with Attention Models](#machine-translation-and-chatbots)
 
 ---
 
